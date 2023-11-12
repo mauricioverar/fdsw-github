@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+#Hero-Section h1 {
+  color: #198754;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
